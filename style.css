@@ -59,13 +59,13 @@ footer{
 }
 .footer-content{
     width: 100%;
-    
+    margin: 0 auto;
     
 }
 .footer-cool {
    display: flex;
    justify-content: space-around;
-   flex-direction: column;
+ 
 }
 .footer-link span{
     font-weight: bold;
